@@ -1,0 +1,25 @@
+.container{
+    width: 55%;
+    margin: auto;
+}
+
+body{
+    background-color: #b7ca5a;
+}
+
+.location_name{
+    text-align: center;
+    color: darkblue;
+}
+
+.selectboxes{
+    display: flex;
+    justify-content: center;
+}
+
+select{
+    margin: 0 20px;
+    color: darkblue;
+    font-size: 40px;
+    background-color: #ef8855;
+}
